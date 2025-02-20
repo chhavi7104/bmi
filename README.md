@@ -1,2 +1,2 @@
 # bmi
-<p>calculate your bmi </p>
+<p>calculate your bmi</p>
