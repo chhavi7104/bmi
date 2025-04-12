@@ -1,0 +1,95 @@
+/* App.css */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #f5f7fa;
+    margin: 40px;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    min-height: 100vh;
+  }
+  
+  .App {
+    background: #ffffff;
+    padding: 2rem 3rem;
+    margin-top: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+    max-width: 450px;
+    width: 100%;
+  }
+  
+  .App h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 1.5rem;
+  }
+  
+  form > div {
+    margin-bottom: 1rem;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 0.5rem;
+    color: #555;
+    font-weight: 500;
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    padding: 0.6rem 1rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 1rem;
+    transition: border 0.3s ease;
+  }
+  
+  input[type="text"]:focus {
+    border-color: #30e0c3;
+    outline: none;
+  }
+  
+  .btn {
+    background-color: #30e0c3;
+    color: white;
+    padding: 0.6rem 1.5rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-right: 0.5rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: #83ecda;
+  }
+  
+  .btn-outline {
+    background-color: transparent;
+    color:#30e0c3;
+    border: 2px solid #30e0c3;
+  }
+  
+  .btn-outline:hover {
+    background-color: #ddf6f2;
+  }
+  
+  .centre {
+    text-align: center;
+    margin-top: 1.5rem;
+  }
+  
+  .centre h3 {
+    margin-bottom: 0.5rem;
+    color: #444;
+  }
+  
+  .centre p {
+    color: #666;
+    font-size: 1rem;
+  }
+  

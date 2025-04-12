@@ -1,5 +1,8 @@
 // Code for BMI Calculator
 import "./App.css";
+// ✅ Correct import
+import Navbar from './Navbar';
+
 import React, { useState } from "react";
 function App() {
   const [weight, setWeight] = useState(0);
@@ -26,9 +29,27 @@ function App() {
   }
 
   return (
+    <>
+    <Navbar/>
     <div className="App">
       <h1>BMI Calculator</h1>
       <form onSubmit={calculate}>
+        <div>
+          <label>Name: </label>
+          <input
+            type="text"
+            name="name"
+            placeholder="Enter your name"
+          />
+        </div>
+        <div>
+          <label>Age: </label>
+          <input
+            type="text"
+            name="age"
+            placeholder="Enter your age"
+          />
+        </div>
         <div>
           <label>Weight: </label>
           <input
@@ -63,6 +84,7 @@ function App() {
         </div>
       </form>
     </div>
+    </>
   );
 }
 
