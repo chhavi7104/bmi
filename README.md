@@ -1,5 +1,5 @@
 # bmi
-<p>calculate your bmi(body mass index)</p>
+<p>calculate your bmi(Body mass index)</p>
 <p>add your height and  weight. </p>
 <p>hi it is a react based project. </p>
 <p>health is wealth keep a track of it .</p>
