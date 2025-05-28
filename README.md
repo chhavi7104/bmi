@@ -1,10 +1,3 @@
-# bmi
-<p>calculate your BMI(Body mass index)</p>
-<p>add your height and  weight. </p>
-<p>hi it is a react based project. </p>
-<p>health is wealth keep a track of it .</p>
-<h1> bmi index </h1>
-
 
 
 # ⚖️ BMI Calculator
@@ -27,8 +20,8 @@ A simple Body Mass Index (BMI) Calculator built using **React**. This web app al
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/bmi-calculator.git
-   cd bmi-calculator
+   git clone 
+   cd 
 
 
 
