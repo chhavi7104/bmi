@@ -8,6 +8,7 @@ A simple Body Mass Index (BMI) Calculator built using **React**. This web app al
 
 ## 🚀 Features
 
+
 - 📏 Input height (in cm) and weight (in kg)
 - 🧮 Calculates BMI in real-time
 - 🩺 Shows health status (Underweight, Normal, Overweight, Obese)
