@@ -22,7 +22,7 @@ A simple Body Mass Index (BMI) Calculator built using **React**. This web app al
    git clone https://github.com/chhavi7104/bmi.git
    cd bmi
 
-
+ 
 
 
 
