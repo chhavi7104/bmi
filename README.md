@@ -1,5 +1,6 @@
 # ⚖️ BMI Calculator
 
+
 A simple Body Mass Index (BMI) Calculator built using **React** . This web app allows users to input their height and weight to calculate their BMI and receive feedback on their health status.
 
 ## 🛠️  Tech Stack 
