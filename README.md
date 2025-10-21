@@ -14,7 +14,7 @@ A simple Body Mass Index (BMI) Calculator built using **React** . This web app a
 - 🩺 Shows health status (Underweight, Normal, Overweight, Obese)
 - ✨ Responsive and clean UI
 
-## 📦 Installation
+## 📦 Installation 
 
 1. **Clone the repository**:
 
