@@ -6,7 +6,6 @@ A simple Body Mass Index (BMI) Calculator built using **React**. This web app al
 
 - [React](https://reactjs.org/) —  Frontend library for building UI.
 
-
 ## 🚀 Features
 
 - 📏 Input height (in cm) and weight (in kg)
