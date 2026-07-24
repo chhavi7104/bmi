@@ -7,7 +7,6 @@ height and weight to calculate their BMI and receive feedback on their health st
 
 - [React](https://reactjs.org/) —  Frontend library for building UI.
   
-
 ## 🚀 Features
 
 - 📏 Input height (in cm) and weight (in kg)
