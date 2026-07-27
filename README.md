@@ -21,4 +21,3 @@ height and weight to calculate their BMI and receive feedback on their health st
    ```bash
    git clone https://github.com/chhavi7104/bmi.git
    cd bmi
-
