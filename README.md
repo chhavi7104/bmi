@@ -5,7 +5,6 @@ height and weight to calculate their BMI and receive feedback on their health st
 
 ## 🛠️  Tech Stack 
 
-
 - [React](https://reactjs.org/) —  Frontend library for building UI.
   
 ## 🚀 Features
