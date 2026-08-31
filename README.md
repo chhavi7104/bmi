@@ -9,6 +9,7 @@ height and weight to calculate their BMI and receive feedback on their health st
   
 ## 🚀 Features
 
+
 - 📏 Input height (in cm) and weight (in kg)
 - 🧮 Calculates BMI in real-time
 - 🩺 Shows health status (Underweight, Normal, Overweight, Obese)
